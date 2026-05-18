@@ -1,4 +1,4 @@
-# CoffeBexa
+# Plataforma de Gestión de Inventario y Ventas (tipo mini ERP-CoffeBexa)
 
 Modern management dashboard for retail and coffee shop operations.
 
